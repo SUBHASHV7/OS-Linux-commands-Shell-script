@@ -1151,6 +1151,7 @@ $ ./funcex.sh
 $ ./funcex.sh 1 2
 ### OUTPUT
 
+<img width="444" height="322" alt="Screenshot 2025-09-23 171348" src="https://github.com/user-attachments/assets/64afa5b9-b5be-4919-8dbb-0083db287b78" />
 
 
 cat > argshift.sh
@@ -1166,9 +1167,10 @@ $ ./argshift.sh 1 2 3
 
 ### OUTPUT
 
- 
+<img width="259" height="242" alt="Screenshot 2025-09-23 171440" src="https://github.com/user-attachments/assets/2458abbf-6ca2-48d7-9d6b-70f6e5a4bdbf" />
 
- cat > argshift1.sh
+
+cat > argshift1.sh
 ```bash
  #/bin/bash 
  # store arguments in a special array 
@@ -1186,6 +1188,7 @@ $ ./argshift.sh 1 2 3
 
 ### OUTPUT
 
+<img width="333" height="328" alt="Screenshot 2025-09-23 171746" src="https://github.com/user-attachments/assets/671297de-a447-45b6-8faa-673abbd07a0b" />
 
 
 cat > argshift.sh
@@ -1203,7 +1206,8 @@ $ chmod 777 argshift.sh
 $ ./argshift.sh 1 2 3
 ### OUTPUT
  
- 
+<img width="273" height="379" alt="Screenshot 2025-09-23 171901" src="https://github.com/user-attachments/assets/5ce2c88d-700b-4e1c-9f48-771c753a798c" />
+
 
 cat > nc.awk
 ```bash
@@ -1235,6 +1239,7 @@ ubcdfghj
 awk -f nc.awk data.dat
 ### OUTPUT 
 
+<img width="181" height="447" alt="Screenshot 2025-09-23 172118" src="https://github.com/user-attachments/assets/dcb98adb-492a-4fd0-a211-144f6fe952f8" />
 
 
 cat > palindrome.sh
@@ -1267,7 +1272,7 @@ $ ./palindrome.sh
 
 ### OUTPUT 
 
-
+<img width="275" height="433" alt="Screenshot 2025-09-23 172239" src="https://github.com/user-attachments/assets/d8e9fa8e-3187-445c-b5d4-63f2b229ae24" />
 
 
 # RESULT:
